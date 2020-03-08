@@ -15,9 +15,10 @@
 
 
 ## GUI of this application
-![Uploading Capture2.PNG…]()
-![Uploading Capture3.PNG…]()
-![Uploading Capture4.PNG…]()
-![Uploading Capture5.PNG…]()
-![Uploading Capture6.PNG…]()
-![Uploading Capture7.PNG…]()
+![Capture2](https://user-images.githubusercontent.com/48455549/76165150-f98aed00-6154-11ea-9b01-9b058a2d4659.PNG)
+![Capture3](https://user-images.githubusercontent.com/48455549/76165175-322ac680-6155-11ea-85f5-f16fd23b9dc7.PNG)
+![Capture4](https://user-images.githubusercontent.com/48455549/76165186-41117900-6155-11ea-8df0-3d40fcd9cda7.PNG)
+![Capture5](https://user-images.githubusercontent.com/48455549/76165195-5090c200-6155-11ea-93eb-61b4c51dc322.PNG)
+![Capture6](https://user-images.githubusercontent.com/48455549/76165196-5090c200-6155-11ea-9f33-01a26eec68a8.PNG)
+![Capture7](https://user-images.githubusercontent.com/48455549/76165197-5090c200-6155-11ea-8ce1-848a008f2425.PNG)
+
