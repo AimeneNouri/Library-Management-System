@@ -9,4 +9,4 @@
      @BOUHHADA Wail.
      @CHAKFI Ahmed.
      @DAKHCH Oussama.
-<img src="C:\Users\aimen\Desktop\capture.png" alt="Example" width="193" height="130">
+<img src="C:\Users\aimen\Desktop\capture.png" width="193" height="130">
