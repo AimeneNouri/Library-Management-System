@@ -10,3 +10,9 @@
      @CHAKFI Ahmed.
      @DAKHCH Oussama.
 
+
+![capture1](https://user-images.githubusercontent.com/48455549/76165063-39050980-6154-11ea-86e5-68263827c733.PNG)
+
+
+## graphic interface
+ 
