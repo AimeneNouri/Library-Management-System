@@ -14,5 +14,10 @@
 ![capture1](https://user-images.githubusercontent.com/48455549/76165063-39050980-6154-11ea-86e5-68263827c733.PNG)
 
 
-## graphic interface
- 
+## GUI of this application
+![Uploading Capture2.PNG…]()
+![Uploading Capture3.PNG…]()
+![Uploading Capture4.PNG…]()
+![Uploading Capture5.PNG…]()
+![Uploading Capture6.PNG…]()
+![Uploading Capture7.PNG…]()
